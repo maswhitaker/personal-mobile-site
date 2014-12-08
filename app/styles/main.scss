@@ -1,0 +1,21 @@
+ // Bourbon & Neat
+@import '../../bower_components/bourbon/dist/bourbon';
+@import '../../bower_components/neat/app/assets/stylesheets/neat';
+
+// Custom Styles
+#stuff{
+  width: 100%;
+}
+h1{
+  font-family: Montserrat;
+  color: #244DDA;
+  font-size: 2.5em;
+  text-align: center;
+}
+#logo{
+  width: 100px;
+  height: 100px;
+  align: middle;
+  border-radius: 50%;
+  border: solid black 2px;
+}
